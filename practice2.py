@@ -3,7 +3,7 @@ import requests
 
 window = tk.Tk()
 window.geometry("300x300")
-window.title("meteorological")
+window.title("meteorologica")
 
 lblNotFound = tk.Label(window)
 lblTemp = tk.Label(window)
